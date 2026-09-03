@@ -1,11 +1,13 @@
 about:
-  description: Lightweight AUR Package Manager
+  description:
+  |
+    Lightweight AUR Package Manager
   license: GPL-3.0
   homepage: https://github.com/trizen/trizen/blob/master/TRIZEN.md
   head: ababde5
   archived: false
   latestVersion: 1.68
-  collectedAt: 2026-09-03T05:14:34Z
+  collectedAt: 2026-09-03T22:34:56Z
 timeline:
   created: 2011-02-17
   lastCommit: 2025-08-11
@@ -22,7 +24,7 @@ language:
   Perl: 99931
   Roff: 6354
   Shell: 2478
-totalLine: 108763
+totalBytes: 108763
 recent:
   last30d:
     since: 2026-08-04
