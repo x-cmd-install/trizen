@@ -179,4 +179,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 4 are checked with a SAST tool'
 ---
-{"id":84801843,"author":{"login":"trizen","id":614513,"node_id":"MDQ6VXNlcjYxNDUxMw==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOABUOwM4FDfkz","tag_name":"1.68","target_commitish":"master","name":"Version 1.68","draft":false,"immutable":false,"prerelease":false,"created_at":"2022-12-02T10:49:25Z","updated_at":"2022-12-02T10:51:23Z","published_at":"2022-12-02T10:51:23Z","assets":[],"body":"- Fixed the extraction of edited AUR comments. (https://github.com/trizen/trizen/commit/73403534827db1140ad79829078058acbe42a82b)\r\n- `is_vcs_package_ood()`: use `https://` instead of `git://` for GitHub and GitLab. (https://github.com/trizen/trizen/commit/e7c9b74459fe9f8e52c123330ce8988b4bc75b46, https://github.com/trizen/trizen/commit/eef1eca0e3b39000273e9c7712bca61d42fc5c23)"}
