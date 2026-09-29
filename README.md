@@ -44,7 +44,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 821 · **Forks**: 42 · **Open issues**: 230 · **Contributors**: 18
+- **Stars**: 822 · **Forks**: 42 · **Open issues**: 230 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-10-08 | 0 | 1 | 0 | 0 | 4 | 4 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-04 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-10-09 | 0 | 1 | 0 | 0 | 4 | 4 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for trizen lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:38:59Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:03:52Z._
