@@ -14,11 +14,11 @@ x install trizen
 
 ## Code insight
 
-Total: **2,266** lines of code across **2** files in the top 5 languages.
+Total: **2,267** lines of code across **2** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Perl | 2,266 | 210 | 668 | 1 |
+| Perl | 2,267 | 210 | 668 | 1 |
 | Markdown | 0 | 103 | 39 | 1 |
 
 ## OpenSSF Scorecard
@@ -48,18 +48,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 174 · **Open issues**: 54 · **Commits**: 583
+- **Releases**: 39 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 174 · **Open issues**: 54 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 360d | 2025-11-14 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last720d | 2024-11-19 | 0 | 1 | 0 | 0 | 3 | 7 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last720d | 2024-11-20 | 0 | 1 | 0 | 0 | 3 | 8 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for trizen lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:45:11Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:31:09Z._
