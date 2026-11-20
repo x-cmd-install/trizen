@@ -14,12 +14,22 @@ x install trizen
 
 ## Code insight
 
-Total: **2,267** lines of code across **2** files in the top 5 languages.
+Total: **2,266** lines of code across **2** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Perl | 2,267 | 210 | 668 | 1 |
+| Perl | 2,266 | 211 | 668 | 1 |
 | Markdown | 0 | 103 | 39 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.5 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 
 ## Source
 
@@ -30,7 +40,7 @@ Total: **2,267** lines of code across **2** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.68` (2022-12-02)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-19
 
 ## Popularity
 
@@ -38,18 +48,18 @@ Total: **2,267** lines of code across **2** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 174 · **Open issues**: 54 · **Commits**: 584
+- **Releases**: 39 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 174 · **Open issues**: 54 · **Commits**: 585
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 360d | 2025-11-24 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last720d | 2024-11-29 | 0 | 1 | 0 | 0 | 3 | 8 |
+| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-24 | 0 | 0 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-25 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last720d | 2024-11-30 | 0 | 1 | 0 | 0 | 3 | 9 |
 
 ## Improve this data
 
@@ -60,4 +70,4 @@ Install metadata for trizen lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:59:54Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:27:19Z._
